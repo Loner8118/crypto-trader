@@ -42,6 +42,8 @@ streamlit run app.py
 
 Dashboard will open at:
 http://localhost:8501
+or 
+https://crypto-trader-7sz5abtsefvp2kuzuddw3t.streamlit.app/
 
 Methodology
 1. Data Cleaning & Alignment:-
