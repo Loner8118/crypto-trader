@@ -36,17 +36,14 @@ crypto-trader-sentinel/
 
 ⚙️ Setup Instructions
 1️⃣ Clone Repository
-git clone https://github.com/yourusername/crypto-trader.git
+git clone https://github.com/Loner8118/crypto-trader.git
 cd crypto-trader
 2️⃣ Install Dependencies
 pip install -r requirements.txt
-3️⃣ Run Notebook (Optional – Full Analysis)
-
+3️⃣ Run Notebook
 Open:
-
 notebook/analysis.ipynb
-
-Run all cells from top to bottom.
+(Run all cells from top to bottom.)
 
 4️⃣ Run Interactive Dashboard
 streamlit run app.py
