@@ -163,5 +163,5 @@ Dashboard deployment
 
 👤 Author
 
-Your Name
-Email: your.email@example.com
+Your Name- Tanish AKre
+Email: tanishakre15@gmail.com
